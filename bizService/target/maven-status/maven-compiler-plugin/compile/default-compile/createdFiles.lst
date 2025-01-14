@@ -1,0 +1,4 @@
+cc\synx\api\UserClient.class
+cc\synx\BizServiceApplication.class
+cc\synx\entity\User.class
+cc\synx\controller\BizController.class

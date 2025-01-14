@@ -1,0 +1,4 @@
+tech\synx\Controller\ArithmeticController.class
+tech\synx\arithmetic\ArithmeticApplication.class
+tech\synx\Result\ArithmeticResult.class
+tech\synx\Request\ArithmeticRequest.class

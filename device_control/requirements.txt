@@ -1,0 +1,4 @@
+sanic~=24.6.0
+pymysql~=1.1.1
+websockets~=13.0.1
+requests~=2.32.3

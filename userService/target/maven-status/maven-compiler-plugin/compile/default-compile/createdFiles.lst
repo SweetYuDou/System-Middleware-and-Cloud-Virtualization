@@ -1,0 +1,5 @@
+cc\synx\UserServiceApplication.class
+cc\synx\controller\UserController.class
+cc\synx\entity\User.class
+cc\synx\mapper\UserMapper.class
+cc\synx\service\UserServiceImpl.class
